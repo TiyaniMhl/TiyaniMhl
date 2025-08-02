@@ -1,6 +1,6 @@
-- 👀 I’m interested in video gaming, literature and music
-- 🌱 I’m currently studying BSc Computer Science and Computer Engineering
-- 💞️ I’m looking to collaborate on any video gaming projects
+- 👀 I’m interested in **video gaming, literature and music**
+- 🌱 I have a degree in **BSc Computer Science**, and I’m currently studying **BA Digital Art Honours**
+- 💞️ I’m looking to collaborate on any **video gaming projects**
 - 📫 Reach me here: mhlarhit@gmail.com
 
 <!---
