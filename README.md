@@ -1,4 +1,4 @@
-- I have a degree in **BSc Computer Science**, and **BA Digital Art Honours**
+- I have a degree in **BSc Computer Science** and **BA Digital Art Honours**
 - I’m looking to collaborate on any **software projects**
 - My interests include **video games, literature and music**
 - Reach me here: mhlarhit@gmail.com
